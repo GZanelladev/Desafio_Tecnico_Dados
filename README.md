@@ -108,7 +108,7 @@ o melhor modelo quando comparado com o demais.
 ## Referências Bibliográficas
 
 1. [Artigo Medium](https://medium.com/@lucas.lyon96/qual-modelo-de-machine-learning-escolher-para-o-meu-problema-8874c2bc8517")
-2. [Artigo - Machine Learning Calibration Model](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://amt.copernicus.org/articles/11/291/2018/amt-11-291-2018.pdf")
+2. [Artigo - Machine Learning Calibration Model](https://amt.copernicus.org/articles/11/291/2018/amt-11-291-2018.pdf")
 3. [Artigo - Uncontrolled Enviroments Calibration Sensors](https://github.com/marcelcases/calibration-sensors-machine-learning#data-observation")
 4. [Aritgo - Machine Learning for Light Sensor](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8473444/")
 5. [Métricas para Regressão](https://medium.com/data-hackers/prevendo-n%C3%BAmeros-entendendo-m%C3%A9tricas-de-regress%C3%A3o-35545e011e70")
