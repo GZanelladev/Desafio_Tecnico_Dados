@@ -103,7 +103,7 @@ portanto quanto maior seu valor mais explicativo é o modelo em relação aos da
 ## Conclusão
 
 O Modelo de Machine Learning Random Forest Regressor aprensentou o menor valor para a métrica RMSE e maior valor de R2, assim definindo
-o melhor modelo quando comparado com o demais.
+o melhor modelo quando comparado com os demais.
 
 ## Referências Bibliográficas
 
